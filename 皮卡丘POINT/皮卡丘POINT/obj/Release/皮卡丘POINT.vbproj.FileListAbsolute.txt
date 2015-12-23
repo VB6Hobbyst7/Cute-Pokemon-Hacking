@@ -1,0 +1,10 @@
+C:\Users\um\Desktop\Debug\Debug\皮卡丘打排球外掛+遊戲檔 (1)\皮卡丘POINT\皮卡丘POINT\bin\Release\皮卡丘POINT.exe.config
+C:\Users\um\Desktop\Debug\Debug\皮卡丘打排球外掛+遊戲檔 (1)\皮卡丘POINT\皮卡丘POINT\bin\Release\皮卡丘POINT.exe
+C:\Users\um\Desktop\Debug\Debug\皮卡丘打排球外掛+遊戲檔 (1)\皮卡丘POINT\皮卡丘POINT\bin\Release\皮卡丘POINT.pdb
+C:\Users\um\Desktop\Debug\Debug\皮卡丘打排球外掛+遊戲檔 (1)\皮卡丘POINT\皮卡丘POINT\bin\Release\皮卡丘POINT.xml
+C:\Users\um\Desktop\Debug\Debug\皮卡丘打排球外掛+遊戲檔 (1)\皮卡丘POINT\皮卡丘POINT\obj\Release\皮卡丘POINT.Form1.resources
+C:\Users\um\Desktop\Debug\Debug\皮卡丘打排球外掛+遊戲檔 (1)\皮卡丘POINT\皮卡丘POINT\obj\Release\皮卡丘POINT.Resources.resources
+C:\Users\um\Desktop\Debug\Debug\皮卡丘打排球外掛+遊戲檔 (1)\皮卡丘POINT\皮卡丘POINT\obj\Release\皮卡丘POINT.vbproj.GenerateResource.Cache
+C:\Users\um\Desktop\Debug\Debug\皮卡丘打排球外掛+遊戲檔 (1)\皮卡丘POINT\皮卡丘POINT\obj\Release\皮卡丘POINT.exe
+C:\Users\um\Desktop\Debug\Debug\皮卡丘打排球外掛+遊戲檔 (1)\皮卡丘POINT\皮卡丘POINT\obj\Release\皮卡丘POINT.xml
+C:\Users\um\Desktop\Debug\Debug\皮卡丘打排球外掛+遊戲檔 (1)\皮卡丘POINT\皮卡丘POINT\obj\Release\皮卡丘POINT.pdb
